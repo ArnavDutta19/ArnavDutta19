@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnav</h1>
+<h1 align="center">Hi !!!, I'm Arnav</h1>
 <h3 align="center">Trader • Developer • Quantitative Systems Enthusiast</h3>
 
 <div align="center">
